@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "daraedna@teste.com",
+            "password": "teste",
+            "name": "Daraedna Menezes",
+            "city": "Recife",
+            "access_token": "liberado"
+        }
+    ]
+}
